@@ -6,4 +6,4 @@ CommonJs (module.exports/require)
 *with require() Javascript waits until it gets to that line in your code while it is running to figure out what you need = dynamic evaluation
 
 Why choose ES modules for modern Node projects?
-imports allow for better performance optimizations like tree-shaking for example.
+imports allow for better performance optimizations like tree-shaking for example.# node-review_
